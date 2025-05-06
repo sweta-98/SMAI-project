@@ -17,3 +17,6 @@ Code Files and order of execution:
 7. 4_b_inference_plan_driver.ipynb - Full inference notebook for training plan generation [Final output]
 
 
+The folder 'py_files' contains the python files (.py) of the notebooks mentioned above.
+
+
