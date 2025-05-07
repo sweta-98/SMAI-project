@@ -14,7 +14,7 @@ Code Files and order of execution:
 4. 2_train_RL_training_plan.ipynb - Training of the RL agent 
 5. 3_shap.ipynb - Creates and saves the SHAP explainer of the injury prediction model
 6. 4_a_inference_injury_pred.ipynb - Inference for the injury prediction model solely
-7. 4_b_inference_plan_driver.ipynb - Full inference notebook for training plan generation [Final output]
+7. 4_b_inference_plan_driver.ipynb - Full inference notebook for training plan generation [Final output]. Pass the row_idx as input.
 
 
 The folder 'py_files' contains the python files (.py) of the notebooks mentioned above.
